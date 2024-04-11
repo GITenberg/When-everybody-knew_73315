@@ -1,0 +1,29 @@
+_repo: When-everybody-knew_73315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spears, Raymond S. (Raymond Smiley)
+    alias: Spears, Raymond Smiley
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '33548'
+    url: http://www.gutenberg.org/2009/agents/33548
+description: ''
+gutenberg_issued: '2024-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73315'
+language: en
+pgterms:marc904: https://archive.org/details/adventure-v-067-n-03-1928-07-15
+pgterms:marc905: 20231125071331spears
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Butterick Publishing Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When everybody knew
+url: http://www.gutenberg.org/ebooks/73315
