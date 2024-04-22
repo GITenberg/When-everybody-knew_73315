@@ -1,5 +1,8 @@
 _repo: When-everybody-knew_73315
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73315-h/images/cover.jpg
 creator:
   author:
     agent_name: Spears, Raymond S. (Raymond Smiley)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '33548'
     url: http://www.gutenberg.org/2009/agents/33548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73315#When-everybody-knew
 gutenberg_issued: '2024-04-01'
 gutenberg_type: Text
 identifiers:
